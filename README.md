@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 😀I'm zhixiang.xu,twenty years old.
+- 🐏Study in Jingjiang College of Jiangsu University
+- 🇨🇳 You can contanct me by the email:1554716606@qq.com
 
 <!--
 **zhixiang0314/zhixiang0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
